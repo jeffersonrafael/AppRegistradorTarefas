@@ -8,5 +8,5 @@ Os objetivos são do tipo, fazer tal coisa em tal número de vezes.
 
 ## Mostrando como o app funcionará
 ---
-1) Diga se o objetivo terá subdivisões
-2) Insira o número de vezes que a tarefa será realizada
+1) Insira o nome da tarefa
+2) Insira o número n de repetições, distribuidos p a p
